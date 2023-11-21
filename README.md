@@ -1,5 +1,5 @@
 # socketgpt
-cat gpt app using socket io and mongodb
+chat gpt app using socket io and mongodb
 
 create .env file and add below fields
 
