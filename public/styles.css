@@ -1,0 +1,18 @@
+/* public/styles.css */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  form {
+    display: flex;
+    margin-top: 10px;
+  }
+  
+  form input {
+    flex: 1;
+  }
+  
+  form button {
+    padding: 10px;
+  }
+  
